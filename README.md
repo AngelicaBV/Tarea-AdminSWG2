@@ -4,5 +4,5 @@ Este es un repositorio para aprender a manejar github. Clase: Administración de
 
 Nunca habiamos usado Git! :O :D !!! ...
 
-Se nos esta complicando el su uso ya que debemos ir a la documentacion
+Se nos esta complicando su uso ya que debemos ir a la documentacion
 para poder saber la manera correcta de usarlo :)
